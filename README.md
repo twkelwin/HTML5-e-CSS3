@@ -1,11 +1,11 @@
-# Nome do Projeto
+# Olá, sou o [Kelwin Eduardo] 👨‍💻
 
-**Descrição:** Este é um projeto que utiliza HTML5, CSS3.
+📚 Atualmente aprendendo mais sobre HTML5, CSS3, PostgreSQL, MySQL, e Java! 🚀
 
-## Tecnologias usadas
-
-- HTML5
-- CSS3
-- MySQL/PostgreSQL
-
-
+🛠️ **Tecnologias que estou aprendendo**:
+- HTML5 🌐
+- CSS3 🎨
+- JavaScript ⚡
+- PostgreSQL 🐘
+- MySQL 🐬
+- Java ☕
