@@ -1,8 +1,9 @@
 # Olá, me chamo [Kelwin Eduardo] 👨‍💻
 
-📚 Atualmente aprendendo mais sobre HTML5, CSS3, PostgreSQL, MySQL, e Java! 🚀
+📚 Estou aprendendo mais sobre HTML5, CSS3, PostgreSQL, MySQL e Java! 🚀
 
-🛠️ **Tecnologias que estou aprendendo**:
+## 🛠️ Tecnologias que estou aprendendo
+
 - HTML5 🌐
 - CSS3 🎨
 - JavaScript ⚡
@@ -10,6 +11,19 @@
 - MySQL 🐬
 - Java ☕
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F7A800?style=flat&logo=java&logoColor=white)
+## 🔧 Minhas habilidades
+
+| Tecnologia | Nível       | Conhecimento |
+|------------|-------------|--------------|
+| HTML5      | 🎓 Intermediário | 👨‍💻 Sites Responsivos |
+| CSS3       | 🎓 Intermediário | 🎨 Layouts e Animações |
+| Java       | 🎓 Intermediário | ☕ Desenvolvimento de Aplicações |
+| MySQL      | 🎓 Intermediário | 🐬 Gestão de Banco de Dados |
+
+## 📊 Estatísticas do GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+
+## 🔗 Conecte-se comigo
+Em breve..
