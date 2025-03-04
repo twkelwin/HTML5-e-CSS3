@@ -23,7 +23,6 @@
 ## 📊 Estatísticas do GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twkelwin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twkelwin&layout=compact&theme=radical)
 
 ## 🔗 Conecte-se comigo
 Em breve..
